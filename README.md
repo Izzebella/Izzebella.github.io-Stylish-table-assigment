@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Busy Day Schedule</title>
@@ -28,18 +28,18 @@
     <tr>
       <td>11:30 AM</td>
       <td>Lunch</td>
-      <td>With friends in cafeteria</td>
+      <td>While 2watching something/td>
     </tr>
     <tr>
       <td>12:15 PM</td>
       <td>English Class</td>
-      <td>Essay writing practice</td>
+      <td>Do english class/td>
     </tr>
     <tr>
       <td>2:30 PM</td>
       <td>Gym</td>
-      <td>Basketball practice</td>
-    </tr>
+    
+ </tr>
     <tr>
       <td>4:00 PM</td>
       <td>Homework Time</td>
